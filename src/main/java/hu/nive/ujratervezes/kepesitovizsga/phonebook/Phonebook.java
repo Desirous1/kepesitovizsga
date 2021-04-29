@@ -25,6 +25,7 @@ public class Phonebook {
             String nev = entry.getKey();
             String telefonszam = entry.getValue();
             writer.write(nev + ": " + telefonszam);
+            writer.newLine();
         }
     }
 }
