@@ -1,0 +1,2 @@
+# kepesitovizsga
+Képesítő feladatsor
